@@ -83,4 +83,4 @@ npm test
 7. Verify live application updated
 
 ## Contributors
-- Phi Hung (@phihung1357)
+- Lu Phi Hung (@phihung1357)
